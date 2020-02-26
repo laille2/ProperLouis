@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "fr.inti.properlouis",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "monolith",
+    "baseName": "properlouis",
+    "packageName": "fr.inti.properlouis",
+    "packageFolder": "fr/inti/properlouis",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2JlNjQwYjU2YTJmYWIzNzgxZmQwOTc5NmIwODYyODE5NmNmMmE4ZDRlMGE5OGM3ZWVjZGYxNzM4Y2VjMDRkOGZmOGEzZGEyNTQwZjg3NmM4NmQwMDYzZTU5M2Q2MDZhNDI3ZjliNjZkYjdmM2FhYzJhZjIwYTFhM2RhN2FjNDE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1582704680856,
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr", "en", "de"],
+    "blueprints": []
+  }
+}
